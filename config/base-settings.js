@@ -19,19 +19,28 @@ const locales = [
   {
     code: 'ca',
     name: 'Català',
+<<<<<<< HEAD
   },
   //{
    //code: 'en',
    //name: 'English',
   //},
+=======
+  }
+>>>>>>> upstream/master
 ];
 
 /**
 * Set the default language
 */
 const defaultLocale = {
+<<<<<<< HEAD
   code: 'es',
   name: 'Español',
+=======
+  code: 'ca',
+  name: 'Català',
+>>>>>>> upstream/master
 };
 
 
